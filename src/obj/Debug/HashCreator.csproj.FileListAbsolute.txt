@@ -1,0 +1,10 @@
+C:\Users\arian\source\repos\HashCreator\bin\Debug\HashCreator.exe.config
+C:\Users\arian\source\repos\HashCreator\bin\Debug\HashCreator.exe
+C:\Users\arian\source\repos\HashCreator\bin\Debug\HashCreator.pdb
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.csprojAssemblyReference.cache
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.Properties.Resources.resources
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.csproj.GenerateResource.cache
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.exe
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.pdb
+C:\Users\arian\source\repos\HashCreator\obj\Debug\HashCreator.FormMain.resources
